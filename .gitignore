@@ -84,3 +84,6 @@ temp/
 /server/.serverless
 /server/.fusebox
 /server/persist
+
+# Other folder
+/server/other/
